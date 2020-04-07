@@ -12,5 +12,9 @@
 
 .indexbox{
     text-align: center;
+    text-transform: initial;
+    margin-top: 10%;
+    /* border: #4CAF50; */
+    border-color:#4CAF50 ;
     
 }
